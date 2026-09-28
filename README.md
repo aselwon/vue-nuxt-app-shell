@@ -2,10 +2,7 @@
 
 Taskly is a warm, consumer-focused task manager built with Nuxt 3, Vue 3, TypeScript, Tailwind CSS, and Pinia. The Bloomline visual system uses coral and teal accents, light workspace navigation, and board/list views for everyday planning.
 
-## Public demo
-
-[Open the live Taskly demo](https://taskly-demo.pages.dev).
-
+**Demo:** [Open the live Taskly demo](https://taskly-demo.pages.dev)
 
 ## Run locally
 
